@@ -72,7 +72,7 @@ else{
 function calculateTip() {
   if (peopleValue >= 1) {
     let tipAmount = (billValue * tipvalue) / peopleValue;
-    let total = (billValue/ peopleValue) +(tipAmount/ peopleValue);
+    let total = (billValue/ peopleValue) +(tipAmount);
     tipPerPerson.innerHTML = "₹" + tipAmount.toFixed(2);
     totalPerPerson.innerHTML = "₹" + total.toFixed(2);
   }
