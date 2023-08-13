@@ -25,6 +25,6 @@ For support, email anshuverma2703@gmail.com
 
 ## Deployment
 
-To deploy  : https://golden-kulfi-fbd12f.netlify.app/
+To deploy  : https://papaya-swan-5f1770.netlify.app/
 
 
